@@ -22,7 +22,7 @@ class ViewController: UIViewController, AVAudioPlayerDelegate {
     // MARK: Life Cycle
     override func viewDidLoad() {
         super.viewDidLoad()
-        self.addViewsWithCode()
+//        self.addViewsWithCode()
         self.initializePlayer()
     }
     
